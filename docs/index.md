@@ -1,5 +1,15 @@
-# Welcome to My MWT2 Example Docs
+{!README.md!}
 
-Welcome to the official documentation for **MWT2**!
+# Welcome to Lumache's documentation!
 
-This site is powered by [MkDocs](https://www.mkdocs.org/) and hosted on [Read the Docs](https://readthedocs.org/).
+**Lumache** (/lu\'make/) is a Python library for cooks and food lovers
+that creates recipes mixing random ingredients. It pulls data from the
+[Open Food Facts database](https://world.openfoodfacts.org/) and offers
+a *simple* and *intuitive* API.
+
+Check out the [usage](usage) section for further information, including how to [install](usage#installation) the project.
+
+!!! note
+
+    This project is under active development.
+
